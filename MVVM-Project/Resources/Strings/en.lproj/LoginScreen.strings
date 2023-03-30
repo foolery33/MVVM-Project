@@ -1,0 +1,15 @@
+/* 
+  LoginScreen.strings
+  MVVM-Project
+
+  Created by admin on 30.03.2023.
+  
+*/
+
+"emptyFieldsError" = "You have not provided all required information. Please fill all the text fields";
+"invalidEmailError" = "Your email is not conforming to default email standards";
+"moveToMainScreenMessage" = "You've moved to the Main Screen";
+"moveToRegisterScreenMessage" = "You've moved to the Register Screen";
+"okAlert" = "OK";
+"successAlert" = "Success";
+"errorAlert" = "Error";
